@@ -861,22 +861,3 @@ sse
 # The best fit model for this treading data sets is K-MEANS clusturing. 
 # But According to my knowledge this data sets are only for EDA process only. 
 
-
-# In[132]:
-
-
-#Export.to_csv(r'C:\Users\DELL\Tarun python notebook\Data set\Dataset for mini Trading sample project\Exportpre.csv')
-#Import.to_csv(r'C:\Users\DELL\Tarun python notebook\Data set\Dataset for mini Trading sample project\Importpre.csv')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
